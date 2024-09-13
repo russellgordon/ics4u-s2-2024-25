@@ -7,3 +7,4 @@ excludeFromExplorer: true
 - [[Learning Goals]]
 - [[Ontario Curriculum]]
 - [[College Board Curriculum]]
+- [Grade 11 Intro to Computer Science: 2023-24](https://ics3u-s1-2023-24.russellgordon.ca)
