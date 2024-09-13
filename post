@@ -19,7 +19,7 @@ done
 #
 # NOTE: Invoke 'synclink' when posting a section 2 website
 #
-# ./synclink
+./synclink
 #
 # Add all changed files
 #

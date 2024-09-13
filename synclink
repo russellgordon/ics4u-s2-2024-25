@@ -8,7 +8,7 @@
 # Sync the content folder
 #
 echo "Starting to sync 'content' folder from section 1..."
-rsync -a /Users/russellgordon/Documents/Class\ Websites/2024-25/ICS3U/S1/quartz/content .
+rsync -a /Users/russellgordon/Documents/Class\ Websites/2024-25/ICS4U/S1/quartz/content .
 echo "Sync complete."
 #
 # Remove vault folders
@@ -21,7 +21,6 @@ echo "Vault folders removed."
 #
 echo "Removing section 1 specific symlinks..."
 rm content/All\ Classes 
-rm content/Grove\ Time.md 
 rm content/index.md      
 rm content/Key\ Links.md 
 rm content/Private\ Notes.md 
@@ -32,10 +31,9 @@ echo "Done."
 #
 echo "Adding section 2 specific symlinks..."
 cd content
-ln -s source-ics3u/s2/All\ Classes
-ln -s source-ics3u/s2/Grove\ Time.md
-ln -s source-ics3u/s2/index.md
-ln -s source-ics3u/s2/Key\ Links.md
-ln -s source-ics3u/s2/Private\ Notes.md
-ln -s source-ics3u/s2/Scratch\ Page.md
+ln -s source-ics4u/s2/All\ Classes
+ln -s source-ics4u/s2/index.md
+ln -s source-ics4u/s2/Key\ Links.md
+ln -s source-ics4u/s2/Private\ Notes.md
+ln -s source-ics4u/s2/Scratch\ Page.md
 echo "Done."
