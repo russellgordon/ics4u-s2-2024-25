@@ -2,7 +2,7 @@
 excludeFromExplorer: true
 ---
 - [Notion](https://notion.so)
-- [Student Course Outline](https://drive.google.com/file/d/180cAOZZYef4quxhNtjaK8RY94LczrRzL/view?usp=sharing)
+- [Student Course Outline](https://drive.google.com/file/d/180cAOZZYef4quxhNtjaK8RY94LczrRzL/view?usp=share_link)
 - [Ministry of Education Course of Study](https://drive.google.com/file/d/1rtSkqppch3gIXVUwEF6LwxFXdSnmTwXF/view?usp=share_link)
 - [[Learning Goals]]
 - [[Ontario Curriculum]]
