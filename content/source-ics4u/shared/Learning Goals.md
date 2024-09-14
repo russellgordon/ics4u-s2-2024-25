@@ -6,7 +6,6 @@ created: 2024-09-06T00:00:00.000-0400
 createdForSectionTwo: 2024-09-06T00:00:00.000-0400
 ---
 
-# Learning Goals
 Here are the learning goals for Grade 12 Computer Science (ICS4Ue, AP).
 
 For all learning goals, we will engage in further discussion.
