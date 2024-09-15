@@ -16,7 +16,7 @@ This short guide will help you to ensure that you have the correct version of Xc
 
 ## App Store Distribution
 
-It possible to install Xcode via the Mac App Store, but **this is not recommended**.
+It is possible to install Xcode via the Mac App Store, but **this is not recommended**.
 
 Before continuing, check your **Applications** folder:
 
