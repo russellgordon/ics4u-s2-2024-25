@@ -28,3 +28,11 @@ Friday|12:30 PM to 2:00 PM|Room 36
 Grove Time is a drop-in, no appointment needed.
 
 If you have a question, **don't hesitate**, come on by!
+
+### RSA Numbers
+
+As a further recap – this problem involves the use of loops in addition to conditionals – try the [[rsa-numbers.pdf|following puzzle involving identifying RSA numbers]].
+
+To do so, make a new macOS command line project named **RSANumbers**.
+
+You can test the correctness of your solution [[test-plan-rsa-numbers.pdf|using this test plan]].

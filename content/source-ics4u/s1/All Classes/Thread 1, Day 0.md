@@ -1,4 +1,6 @@
 ---
+draft: false
+draftSectionTwo: true
 transcludeTitleSize: h2
 tags:
 excludeBacklinks: true
