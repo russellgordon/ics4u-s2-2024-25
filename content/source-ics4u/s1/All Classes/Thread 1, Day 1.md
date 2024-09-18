@@ -15,4 +15,4 @@ created: 2024-09-16T00:00:00.000-0400
 
 ## Things to do before our next class
 
-- [ ] Do your best to complete the recap exercise, sharing your progress [on Notion](https://notion.so).
+- [ ] Do your best to complete [[Logic and Calculations#The Cell Sell|the recap exercise]], sharing your progress [on Notion](https://notion.so).
