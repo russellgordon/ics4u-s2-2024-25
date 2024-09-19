@@ -3,7 +3,7 @@ draft: false
 draftSectionTwo: false
 tags: 
 created: 2024-09-16T00:00:00.000-0400
-createdForSectionTwo: 2024-09-17T00:00:00.000-0400
+createdForSectionTwo: 2024-09-19T00:00:00.000-0400
 ---
 As a reminder, we can use [for loops](https://www.hackingwithswift.com/quick-start/beginners/how-to-use-a-for-loop-to-repeat-work) to repeat a block of code a fixed number of times.
 

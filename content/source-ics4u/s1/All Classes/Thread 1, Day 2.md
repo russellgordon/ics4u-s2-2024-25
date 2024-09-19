@@ -17,9 +17,3 @@ notes: Be sure to look at how to test for negative values using guard statements
 ## Things to do before our next class
 
 - [ ] Do your best to complete [[Loops#RSA Numbers|the recap exercise]], sharing your progress [on Notion](https://notion.so).
-
-> [!IMPORTANT]
-> 
-> **Please bring your iPhone or iPad to our next class.**
-> 
-> We will be revisiting how to load software on to your phone directly from Xcode. You will need your phone for this exercise. If you do not have an iPhone or iPad, Mr. Gordon has a spare phone that you can use for on-device testing.
