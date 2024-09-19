@@ -11,7 +11,7 @@ notes: Be sure to look at how to test for negative values using guard statements
 ---
 ## Agenda
 1. Discussion: [[Logic and Calculations#The Cell Sell|The Cell Sell]] solutions
-2. Recap: Functions
+2. Recap: [[Functions]]
 3. Recap: Loops
 4. Concept: Functional Decomposition
 
