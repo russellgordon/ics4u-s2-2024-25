@@ -11,9 +11,9 @@ notes:
 ---
 ## Agenda
 1. Tutorial: Writing Unit Tests
-2. Concept: Algorithmic Efficiency
-3. Exercise: Automate Puzzle Testing
-4. Setup: Running Applications on a Device
+2. Exercise: Automate Puzzle Testing
+3. Concept: Algorithmic Efficiency
+5. Setup: Running Applications on a Device
 
 ## Things to do before our next class
 

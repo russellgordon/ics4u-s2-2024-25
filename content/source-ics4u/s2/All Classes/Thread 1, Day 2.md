@@ -18,3 +18,10 @@ notes: Be sure to look at how to test for negative values using guard statements
 ## Things to do before our next class
 
 - [ ] Do your best to complete [[Loops#RSA Numbers|the RSA numbers puzzle]], sharing your progress [on Notion](https://notion.so).
+- [ ] If possible, use [[Xcodes]] to update Xcode to **16.0**:
+
+![[Screenshot 2024-09-18 at 8.30.41 AM.png|500]]
+
+> [!NOTE]
+> 
+> If you cannot install Xcode 16.0 on the first try, you may need to [[Update macOS to 14.7|update your computer to macOS 14.7]].
