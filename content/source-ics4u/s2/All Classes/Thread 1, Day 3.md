@@ -11,7 +11,10 @@ notes:
 ---
 ## Agenda
 1. Tutorial: Writing Unit Tests
+    - Please [download this project](https://github.com/lcs-rgordon/RSANumbers2024/archive/77ab56bc874b69109ddf0c991059a86ed7daab0d.zip) and open it to begin.
 2. Exercise: Automate Puzzle Testing
+    - Use your solution to the [the Cell Sell](app://obsidian.md/the-cell-sell.pdf), and write units tests based on the [test plan previously provided](app://obsidian.md/the-cell-sell-test-plan.pdf).
+    - If necessary, use this [example solution to the Cell Sell](https://github.com/lcs-rgordon/CellSell2024/archive/999b1e9c76c3cbf2a8ee892fb480c93b96c2e24a.zip) to get started.
 3. Concept: Algorithmic Efficiency
 	- How can we make the RSA Numbers implementation more efficient?
 
