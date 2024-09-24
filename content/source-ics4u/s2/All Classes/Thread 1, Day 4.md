@@ -10,8 +10,8 @@ createdForSectionTwo: 2024-09-24T00:00:00.000-0400
 notes: John Rampelt visiting.
 ---
 ## Agenda
-1. Lecture: Microcomputer Architecture
+1. Lecture: The Evolution of Microcomputer Architecture
 
 ## Things to do before our next class
 
-- [ ] If you have not done so yet, please update your computer to macOS 14.7 and Xcode to 16.0.
+- [ ] If you have not done so yet, please [[Update macOS to 14.7|update your computer to macOS 14.7]] and use [[Xcodes]] to install Xcode 16.0.
