@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
 transcludeTitleSize: h2
 tags:
@@ -7,11 +7,14 @@ excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
 created: 2024-09-23T01:23:31.000-0400
-notes: Assembly programming – see emulation website.
+notes: 
 ---
 ## Agenda
-1. Concept: Assembly Programming
+1. Exercise: [[Logic and Unit Tests]]
 
 ## Things to do before our next class
 
-- [ ] Please update your computer to macOS 14.7 and Xcode to 16.0.
+- [ ] Get ready for Friday's "mostly solo in-class activity" – it will have the same conditions as today's exercise (but without the final comparison of solutions with your peers).
+	- Prepare by:
+		1. ensuring you fully understand solutions to the puzzles we have already tried together in class
+		2. understand how to author a testing target with multiple unit tests

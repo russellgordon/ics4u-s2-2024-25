@@ -10,8 +10,7 @@ createdForSectionTwo: 2024-09-24T00:00:00.000-0400
 notes: John Rampelt visiting.
 ---
 ## Agenda
-1. Concept: Computer Architecture
-2. Concept: Low-Level Instructions
+1. Lecture: Microcomputer Architecture
 
 ## Things to do before our next class
 
