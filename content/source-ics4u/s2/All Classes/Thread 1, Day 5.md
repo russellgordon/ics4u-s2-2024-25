@@ -11,6 +11,10 @@ createdForSectionTwo: 2024-09-25T00:00:00.000-0400
 ## Agenda
 1. Exercise: [[Logic and Unit Tests]]
 
+> [!TIP]
+> 
+> Now updated to share [[Logic and Unit Tests#Example Solution|one possible solution to Deficient, Perfect, and Abundant]].
+
 ## Things to do before our next class
 
 - [ ] Get ready for tomorrow's "mostly solo in-class activity" – it will have the same conditions as today's exercise (but without the final comparison of solutions with your peers).

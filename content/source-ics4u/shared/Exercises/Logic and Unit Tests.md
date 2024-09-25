@@ -46,3 +46,16 @@ For your test plan, remember to write unit tests that cover:
 	- be sure to make at least one or two more test cases for this category
 - boundary conditions
 	- test the edges of acceptable input
+
+## Example Solution
+
+**UPDATE:** Wednesday, September 25, 2024
+
+Here is Mr. Gordon's solution to this problem – it's important to note that this is *not* the only way to solve this problem.
+
+- **Primary logic:**
+	- [main.swift](https://github.com/lcs-rgordon/DeficientPerfectAbundant2024/blob/main/DeficientPerfectAbundant2024/main.swift)
+- **Unit tests:**
+	- [DeficientPerfectAbundantTests.swift](https://github.com/lcs-rgordon/DeficientPerfectAbundant2024/blob/main/DeficientPerfectAbundantTests/DeficientPerfectAbundantTests.swift)
+
+You will get more benefit from reviewing what changed, commit by commit. View the [history of commits here](https://github.com/lcs-rgordon/DeficientPerfectAbundant2024/commits/main/), then click the links at left, one by one, to see how the solution developed.

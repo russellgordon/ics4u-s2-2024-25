@@ -5,6 +5,17 @@ tags:
 ---
 This is a space to make private notes and observations regarding students. This page will not be published to the web.
 
+Bring new bag of ducks!
+
+# Possible Logic Tests
+
+https://www.russellgordon.ca/incomplete-puzzles/isbn.pdf
+https://www.russellgordon.ca/incomplete-puzzles/shifty-sums.pdf
+- Good for S2
+https://www.russellgordon.ca/incomplete-puzzles/speeding-is-not-fine.pdf
+https://www.russellgordon.ca/incomplete-puzzles/winning-score.pdf
+- Good for S1
+
 # Student Interests and Notes
 
 - Evelyn
