@@ -9,12 +9,14 @@ Bring new bag of ducks!
 
 # Possible Logic Tests
 
+https://www.russellgordon.ca/incomplete-puzzles/winning-score.pdf
 https://www.russellgordon.ca/incomplete-puzzles/isbn.pdf
+
+- Good for S1
+
+https://www.russellgordon.ca/incomplete-puzzles/speeding-is-not-fine.pdf
 https://www.russellgordon.ca/incomplete-puzzles/shifty-sums.pdf
 - Good for S2
-https://www.russellgordon.ca/incomplete-puzzles/speeding-is-not-fine.pdf
-https://www.russellgordon.ca/incomplete-puzzles/winning-score.pdf
-- Good for S1
 
 # Student Interests and Notes
 
