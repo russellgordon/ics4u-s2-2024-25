@@ -63,7 +63,8 @@ For your test plan, remember to write unit tests that cover:
 - boundary conditions
 	- test the edges of acceptable input
 
-- ## Example Solutions
+
+## Example Solutions
 
 **UPDATE:** Thursday, September 26, 2024
 
