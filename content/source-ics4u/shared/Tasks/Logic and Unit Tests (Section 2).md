@@ -43,8 +43,8 @@ Choose *one* of the given puzzles and:
 
 While implementing your solution in code, you may refer to any of your own previously written code, or any resources available on our class website, including but not limited to:
 
-- our review of [[Loops|loops and conditional statements]])
-- how to apply abstraction using [[Functions|functions]])
+- our review of [[Loops|loops and conditional statements]]
+- how to apply abstraction using [[Functions|functions]]
 - [[Writing Unit Tests|how to author unit tests]]
 
 For this task, while coding, you are required to not chat with other students (verbally or through other means).
@@ -62,3 +62,23 @@ For your test plan, remember to write unit tests that cover:
 	- be sure to make at least one or two more test cases for this category
 - boundary conditions
 	- test the edges of acceptable input
+
+- ## Example Solutions
+
+**UPDATE:** Thursday, September 26, 2024
+
+Here are Mr. Gordon's solutions to these puzzles – it's important to note that these are *not* the only way to solve this puzzles.
+
+### Speeding Is Not Fine
+
+- **Primary logic:**
+	- [main.swift](https://github.com/lcs-rgordon/SpeedingIsNotFine2024/blob/main/SpeedingIsNotFine2024/main.swift)
+- **Unit tests:**
+	- [SpeedingIsNotFineTests.swift](https://github.com/lcs-rgordon/SpeedingIsNotFine2024/blob/main/SpeedingIsNotFineTests/SpeedingIsNotFineTests.swift)
+
+### Shifty Sums
+
+- **Primary logic:**
+	- [main.swift](https://github.com/lcs-rgordon/ShiftySums2024/blob/main/ShiftySums2024/main.swift)
+- **Unit tests:**
+	- [ShiftySumsTests.swift](https://github.com/lcs-rgordon/ShiftySums2024/blob/main/ShiftySumsTests/ShiftySumsTests.swift)

@@ -10,8 +10,8 @@ createdForSectionTwo: 2024-09-26T00:00:00.000-0400
 
 Write a complete solution to *one* of the following puzzles:
 
-- [[speeding-is-not-fine.pdf|Speeding is Not Fine]]
-- [[shifty-sums.pdf|Shifty Sums]]
+- [[winning-score.pdf|Winning Score]]
+- [[isbn.pdf|ISBN]]
 
 ## Overview
 
@@ -39,8 +39,8 @@ Choose *one* of the given puzzles and:
 
 While implementing your solution in code, you may refer to any of your own previously written code, or any resources available on our class website, including but not limited to:
 
-- our review of [[Loops|loops and conditional statements]])
-- how to apply abstraction using [[Functions|functions]])
+- our review of [[Loops|loops and conditional statements]]
+- how to apply abstraction using [[Functions|functions]]
 - [[Writing Unit Tests|how to author unit tests]]
 
 For this in-class activity, while coding, you are required to not chat with other students (verbally or through other means).
