@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
 tags: 
 created: 2024-09-27T00:00:00.000-0400
@@ -54,7 +54,7 @@ The goal is to show that you know how to implement a solution independently.
 For your test plan, remember to write unit tests that cover:
 
 - typical cases
-	- these can include the examples provided [[deficient-perfect-abundant.pdf|in the specification]]
+	- these can include the examples provided in the specification
 	- be sure to make at least one or two more test cases for this category
 - boundary conditions
 	- test the edges of acceptable input
