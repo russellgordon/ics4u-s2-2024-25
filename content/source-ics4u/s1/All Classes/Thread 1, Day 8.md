@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
 transcludeTitleSize: h2
 tags:
@@ -11,8 +11,10 @@ notes:
 ---
 ## Agenda
 1. Portfolio: Mid-module Portfolio Review
-4. Concept: [[Effects of Computing Innovations]]
+4. Concept: [[Computing Innovations]]
 5. Exercise: [[Read "All The White Boys in the Room"]]
+6. Discussion: [[Effects of Computing Innovations]]
+
 
 ## Things to do before our next class
 

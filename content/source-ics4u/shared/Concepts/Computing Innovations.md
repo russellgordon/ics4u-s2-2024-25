@@ -1,11 +1,10 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: false
-tags: 
 created: 2024-09-28T00:00:00.000-0400
 createdForSectionTwo: 2024-09-27T00:00:00.000-0400
+tags: 
 ---
-
 From the AP Computer Science Principles curriculum, Big Idea #5 is the **Impact of Computing**.
 
 Today you will consider:
