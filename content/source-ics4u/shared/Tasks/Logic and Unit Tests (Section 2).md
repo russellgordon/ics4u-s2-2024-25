@@ -68,7 +68,7 @@ For your test plan, remember to write unit tests that cover:
 
 **UPDATE:** Thursday, September 26, 2024
 
-Here are Mr. Gordon's solutions to these puzzles – it's important to note that these are *not* the only way to solve this puzzles.
+Here are Mr. Gordon's solutions to these puzzles – it's important to note that these are *not* the only way to solve these puzzles.
 
 ### Speeding Is Not Fine
 

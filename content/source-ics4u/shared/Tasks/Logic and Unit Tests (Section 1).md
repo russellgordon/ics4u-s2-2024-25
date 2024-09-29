@@ -58,3 +58,23 @@ For your test plan, remember to write unit tests that cover:
 	- be sure to make at least one or two more test cases for this category
 - boundary conditions
 	- test the edges of acceptable input
+
+## Example Solutions
+
+**UPDATE:** Sunday, September 29, 2024
+
+Here are Mr. Gordon's solutions to these puzzles – it's important to note that these are *not* the only way to solve these puzzles.
+
+### Winning Score
+
+- **Primary logic:**
+	- [main.swift](https://github.com/lcs-rgordon/WinningScore2024/blob/main/WinningScore2024/main.swift)
+- **Unit tests:**
+	- [WinningScoreTests.swift](https://github.com/lcs-rgordon/WinningScore2024/blob/main/WinningScoreTests/WinningScoreTests.swift)
+
+### ISBN
+
+- **Primary logic:**
+	- [main.swift](https://github.com/lcs-rgordon/ISBN2024/blob/main/ISBN2024/main.swift)
+- **Unit tests:**
+	- [ISBN2024Tests.swift](https://github.com/lcs-rgordon/ISBN2024/blob/main/ISBN2024Tests/ISBN2024Tests.swift)

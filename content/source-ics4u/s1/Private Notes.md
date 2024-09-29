@@ -5,6 +5,42 @@ tags:
 ---
 This is a space to make private notes and observations regarding students. This page will not be published to the web.
 
+# First Portfolio Review
+
+## Ansheng
+
+- no concerns
+- doing great work to summarize her understanding in portfolio 
+
+## Hayden
+
+- doing fine
+- needs to be confident
+
+## Dale
+
+- how to divide up into a function, how to author a function
+
+## Ayo
+
+- loops and writing functions
+
+## Nikita
+
+- how to know what things to test
+
+## Lexi
+
+- nothing that needs to be addressed
+
+## Danika
+
+- how to write functions
+
+## Melody
+
+- how to write functions
+- converting logic without functions into separate functions so they are testable
 
 # Student Interests and Notes
 
