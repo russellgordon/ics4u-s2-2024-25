@@ -44,7 +44,7 @@ I can apply Agile software development principles to design and deliver solution
 
 ## 7
 
-I can analyze algorithms for their effectiveness when solving a given problem and compare the theoretical and practice performance of an algorithm across various scenarios.
+I can analyze algorithms for their effectiveness when solving a given problem and compare the theoretical and practical performance of an algorithm across various scenarios.
 <small>Ontario: [[Ontario Curriculum#C2.|C2]] / AP CSP: [[College Board Curriculum#e4|4]]</small>
 
 ## 8
@@ -55,7 +55,7 @@ I can assess initiatives to promote environmental stewardship related to the use
 ## 9
 
 I can analyse the impact of computing innovations (including but not limited to artificial intelligence, cryptography, augmented reality) on our society and economy.
-<small>Ontario: Ontario: [[Ontario Curriculum#D3.|D3]], [[Ontario Curriculum#D4.|D4]] / AP CSP: [[College Board Curriculum#e5|5]]</small>
+<small>Ontario: [[Ontario Curriculum#D3.|D3]], [[Ontario Curriculum#D4.|D4]] / AP CSP: [[College Board Curriculum#e5|5]]</small>
 
 ## 10
 
