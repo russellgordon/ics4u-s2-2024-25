@@ -5,6 +5,11 @@ tags:
 ---
 This is a space to make private notes and observations regarding students. This page will not be published to the web.
 
+# Possible good resource for learning git
+
+http://jlord.us/git-it/index.html
+
+
 # First Portfolio Review
 
 ## Ansheng
