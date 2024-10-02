@@ -8,7 +8,7 @@ draftSectionTwo: false
 
 > [!NOTE]
 > 
-> Mr. Gordon generated this concept summary and the related exercises using the Claude Anthropic AI.
+> Mr. Gordon generated this concept summary and the related exercises using the Claude Anthropic large language model.
 > 
 > He then edited the results for clarity, accuracy, and brevity.
 

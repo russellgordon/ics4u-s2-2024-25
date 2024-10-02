@@ -25,8 +25,7 @@ You can hone your programming skills, using these concepts, by trying the follow
 For each puzzle below, write both a command-line program with logic that solves the problem, and automated unit tests. You may use the [[Functions#Create a function|getInput function]] to collect user input.
 
 1. [[Friendly Numbers]]
-
-*At least one more puzzle to come...*
+2. [[Chip's Fast Food Emporium]]
 
 > [!TIP]
 > 
