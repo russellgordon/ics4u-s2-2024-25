@@ -12,8 +12,8 @@ notes:
 ## Agenda
 1. Concept: [[Test Plans]]
 2. Concept: [[Functional Decomposition]]
-3. Recap: [[Loops]]
-	- Use the rest of this period to finish [[Loops#Exercise|the exercise]].
+3. Recap: [[Recaps/Loops]]
+	- Use the rest of this period to finish [[Recaps/Loops#Exercise|the exercise]].
 
 ## Things to do before our next class
 

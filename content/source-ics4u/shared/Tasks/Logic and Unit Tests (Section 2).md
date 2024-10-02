@@ -43,7 +43,7 @@ Choose *one* of the given puzzles and:
 
 While implementing your solution in code, you may refer to any of your own previously written code, or any resources available on our class website, including but not limited to:
 
-- our review of [[Loops|loops and conditional statements]]
+- our review of [[Recaps/Loops|loops and conditional statements]]
 - how to apply abstraction using [[Functions|functions]]
 - [[Writing Unit Tests|how to author unit tests]]
 

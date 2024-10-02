@@ -12,8 +12,8 @@ notes: Be sure to look at how to test for negative values using guard statements
 ## Agenda
 1. Discussion: [[Logic and Calculations#The Cell Sell|The Cell Sell]] solutions
 2. Recap: [[Functions]]
-3. Recap: [[Loops]]
+3. Recap: [[Recaps/Loops]]
 
 ## Things to do before our next class
 
-- [ ] Do your best to complete [[Loops#RSA Numbers|the recap exercise]], sharing your progress [on Notion](https://notion.so).
+- [ ] Do your best to complete [[Recaps/Loops#RSA Numbers|the recap exercise]], sharing your progress [on Notion](https://notion.so).

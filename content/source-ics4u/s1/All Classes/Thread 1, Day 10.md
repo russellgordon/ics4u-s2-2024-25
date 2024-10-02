@@ -16,9 +16,12 @@ notes:
 5. Setup: [[Connect Xcode to Your Developer ID]]
 7. Setup: [[Source Control Configuration]]
 8. Concept: Creating a Pull Request
+	- Mr. Gordon will demonstrate in class.
 9. Concept: Merging a Pull Request
+	- Mr. Gordon will demonstrate in class.
 10. Concept: Creative Development
 	- What improvements might be made to the Scavenger Hunt app?
+	- How can make suggestions to a repository owner about how to improve the software it contains?
 
 ## Things to do before our next class
 

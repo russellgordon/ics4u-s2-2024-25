@@ -10,6 +10,7 @@ created: 2024-09-30T01:23:31.000-0400
 notes: 
 ---
 ## Agenda
+1. Concept: [[Forking a Repository]]
 1. Exercise: [[Geofencing Apps]]
 
 ## Things to do before our next class
