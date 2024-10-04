@@ -18,6 +18,8 @@ notes:
 	> Email Mr. Gordon today if you know now that you do not wish to write the AP CSP exam.
 1. Concept: Creating Issues
     - How to track and organize improvements that could be made to an app, using the project management features of Xcode.
+ 1. Concept: Using Branches
+    - How to use branches to isolate your work on an issue.
 1. Portfolio: End-of-module Review
 2. Exercise: Scavenger Hunt
 	- Let's try out the new and improved app!
