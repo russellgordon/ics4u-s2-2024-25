@@ -7,6 +7,44 @@ This is a space to make private notes and observations regarding students. This 
 
 Bring new bag of ducks!
 
+# Portfolio Review End of Mod 1
+
+## Yukun
+
+95%
+
+## Matthew
+
+84%
+
+## Hansen
+
+97%
+
+## Ben
+
+93%
+
+## Josh
+
+97%
+
+## Chase
+
+94%
+
+## Dexter
+
+92%
+
+## Evelyn
+
+97%
+
+## Sophie
+
+97%
+
 # Possible Logic Tests
 
 https://www.russellgordon.ca/incomplete-puzzles/winning-score.pdf

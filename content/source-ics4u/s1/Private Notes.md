@@ -9,6 +9,47 @@ This is a space to make private notes and observations regarding students. This 
 
 http://jlord.us/git-it/index.html
 
+# Mod 1 Portfolio Review
+
+## Hayden
+
+85%
+
+## Ansheng
+
+99%
+
+## Lexi
+
+90%
+
+## Melody
+
+91% -> 92%
+
+## Yoshi
+
+95%
+
+## Nikita
+
+97%
+
+## Ayo
+
+88%
+
+## Danika
+
+84%
+
+## Dale
+
+90%
+
+## AJ
+
+80%
 
 # First Portfolio Review
 
