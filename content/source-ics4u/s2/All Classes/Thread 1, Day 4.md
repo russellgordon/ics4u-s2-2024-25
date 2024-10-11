@@ -10,7 +10,7 @@ createdForSectionTwo: 2024-09-24T00:00:00.000-0400
 notes: John Rampelt visiting.
 ---
 ## Agenda
-1. Lecture: The Evolution of Microcomputer Architecture
+1. Lecture: [The Evolution of Microcomputer Architecture](https://drive.google.com/file/d/1EZ9oPZTaG_hwwuIOYNvnHUiYZioli6RJ/view?usp=share_link)
 
 ## Things to do before our next class
 
