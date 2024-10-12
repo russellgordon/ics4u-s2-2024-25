@@ -21,7 +21,7 @@ http://jlord.us/git-it/index.html
 
 ## Lexi
 
-90%
+90% -> 95%
 
 ## Melody
 
@@ -49,7 +49,7 @@ http://jlord.us/git-it/index.html
 
 ## AJ
 
-80%
+80% -> 84%
 
 # First Portfolio Review
 

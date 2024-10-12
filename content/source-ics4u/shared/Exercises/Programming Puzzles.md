@@ -6,6 +6,8 @@ draft: false
 draftSectionTwo: false
 ---
 
+## Concepts
+
 This post serves to provide convenient links to reviews of programming concepts such as:
 
 - [[Operators]]
@@ -19,6 +21,13 @@ This post serves to provide convenient links to reviews of programming concepts 
 > Mr. Gordon used a couple of different large language models to generate these, then proof-read them and corrected a variety of errors. 
 
 You can hone your programming skills, using these concepts, by trying the following puzzles.
+
+## Recap
+
+Optionally, you could review [[Loops, Counters, Functions|these two brief videos]] where Mr. Gordon identifies:
+
+1. how to use a loop to count occurrences of a certain condition
+2. how to separate the logic into individual functions
 
 ## Puzzles
 
