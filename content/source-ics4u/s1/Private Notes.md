@@ -17,7 +17,7 @@ http://jlord.us/git-it/index.html
 
 ## Ansheng
 
-99%
+99% (Diversity in Swift initiative)
 
 ## Lexi
 
@@ -25,11 +25,11 @@ http://jlord.us/git-it/index.html
 
 ## Melody
 
-91% -> 92%
+91% -> 92% -> 94%
 
 ## Yoshi
 
-95%
+95% ** Needs to revise portfolio – see notes in comment given
 
 ## Nikita
 

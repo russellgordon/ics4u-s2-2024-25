@@ -23,7 +23,7 @@ Bring new bag of ducks!
 
 ## Ben
 
-93%
+93% -> 94%
 
 ## Josh
 
@@ -35,7 +35,7 @@ Bring new bag of ducks!
 
 ## Dexter
 
-92%
+92% ** Really needs to do the mostly-solo in-class coding activity again
 
 ## Evelyn
 
