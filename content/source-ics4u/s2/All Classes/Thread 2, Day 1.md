@@ -6,12 +6,23 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-createdForSectionTwo: 2024-10-04T00:00:00.000-0400
+createdForSectionTwo: 2024-11-04T01:23:31.000-0400
 ---
 ## Agenda
-1. Discussion: Algorithm Efficiency
-	- Get Chase to share and describe his approach with the class.
-	  
+
+> [!TIP]
+> 
+> As I'm unable to be in class today, please [watch this video](https://vimeo.com/1024924144/f31b7bf465?share=copy) for an introduction to our new thread of study and to today's tasks.
+> 
+> See you soon,
+> 
+> *Mr. Gordon*
+
+1. Tutorial: [[Bar Charts and Line Charts]]
+2. Tutorial: [[Pie Charts and Donut Charts]]
+3. Recap: [[Programming Puzzles]]
+	- Optionally, work on these review tasks, to prepare for a second chance at completing a mostly-solo in-class programming activity.
+	
 ## Things to do before our next class
 
-_No to-do items before our next class. See you in November! ❄️_
+- [ ] Write about what you learned and made progress on today in a portfolio entry on [Notion](https://notion.so).
