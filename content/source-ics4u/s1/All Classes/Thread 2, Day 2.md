@@ -6,16 +6,18 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2024-10-04T01:23:31.000-0400
+created: 2024-11-05T01:23:31.000-0400
 notes: 
 ---
 ## Agenda
-1. Discussion: Computing Innovation
-	- Warmup where another computing innovation is discussed and ideas about responses to these prompts are generated:
-		  - What constitutes a computing innovation?
-		- How an innovation can have both beneficial and harmful effects
-		- How an innovation’s effects can be both intended and unintended
-		- What can be done to avoid bias in the development of computing innovations
+1. Setup: [Khan Academy Self-Paced Study](https://www.khanacademy.org/join/KREJ63MC)
+	- Please follow the link to join our class on Khan Academy.
+	- We will use this resource to learn about topics from both the AP CSP curriculum and the Ontario curriculum.
+2. Concept: [[PII, Data Tracking, Cyberattacks]]
+	- As a class, we will look at safe computing – exploring what personally identifiable information (PII) is and how to control access to your PII.
+	- We will also examine types of cyberattacks and how to protect our computing devices.
+	- For the remainder of the class and for Study this evening, please [[PII, Data Tracking, Cyberattacks#Exercises|complete these tasks]].
 	  
-
 ## Things to do before our next class
+
+- [ ] Write about what you learned and made progress on today in a portfolio entry on [Notion](https://notion.so).
