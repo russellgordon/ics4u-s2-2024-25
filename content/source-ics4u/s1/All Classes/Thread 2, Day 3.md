@@ -11,7 +11,7 @@ notes:
 ---
 > [!TIP]
 > 
-> As I'm unable to be in class today, please [watch this video](https://vimeo.com/1026731131/2148f052bb?share=copy) for an introduction to our new thread of study and to today's tasks.
+> As I'm unable to be in class today, please [watch this video](https://vimeo.com/1026731131/2148f052bb?share=copy) for an introduction to today's tasks.
 > 
 > See you soon,
 > 
