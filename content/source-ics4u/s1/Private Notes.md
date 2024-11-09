@@ -5,6 +5,12 @@ tags:
 ---
 This is a space to make private notes and observations regarding students. This page will not be published to the web.
 
+# Passkeys and public key cryptography
+
+https://blog.1password.com/what-are-passkeys/
+
+https://randombutmemorable.simplecast.com/episodes/the-passwordless-special
+
 # Possible good resource for learning git
 
 http://jlord.us/git-it/index.html
