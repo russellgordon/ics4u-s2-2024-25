@@ -17,7 +17,7 @@ notes:
 
 > [!NOTE]
 > 
-> Next Monday, a mini-assessment (half-hour multiple-choice mini-test) will occur. How to prepare? Complete Study tasks and self-check quizzes from classes in Thread 2.
+> On Monday, an evaluation (half-hour multiple-choice mini-test) will occur. How to prepare? Complete Study tasks and self-check quizzes from classes in Thread 2.
 
 ## Things to do before our next class
 

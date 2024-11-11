@@ -6,7 +6,7 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-createdForSectionTwo: 2024-11-07T00:00:00.000-0400
+createdForSectionTwo: 2024-11-07T07:00:00.000-0400
 ---
 ## Agenda
 1. Setup: [Khan Academy Self-Paced Study](https://www.khanacademy.org/join/KREJ63MC)
