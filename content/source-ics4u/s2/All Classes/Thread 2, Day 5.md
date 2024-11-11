@@ -12,7 +12,6 @@ createdForSectionTwo: 2024-11-11T07:00:00.000-0400
 ## Agenda
 1. Evaluation: PII, Data Tracking, Cyberattacks, User Authentication, Extracting Information from Data
 	- Complete the mini-test provided to you.
-	- This will be collected from you, marked during this period, and discussed before this class ends.
 1. Concept: [[Simulations]]
 	- Review the lesson once you finish the mini-test, the complete the [[Simulations#Exercises|exercises provided]].
 
