@@ -22,3 +22,5 @@ The answer is a hard no. Watch this super-short 5-minute video for how to create
 > [!TIP]
 > 
 > On a related note, here is a [great site for browsing pleasing color](https://www.canva.com/learn/100-color-combinations/#organic-color-inspiration) combinations. You can use the eyedropper tool (discussed in the video above) to sample and use the colors shown on the aforementioned website.
+> 
+> ![[Screenshot 2024-11-15 at 3.57.23 PM (2).png]]
