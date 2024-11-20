@@ -1,9 +1,9 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 tags: 
-created: 2024-09-30T00:00:00.000-0400
-createdForSectionTwo: 2024-09-20T00:00:00.000-0400
+created: 2024-11-19T01:23:31.000-0400
+createdForSectionTwo: 2024-11-20T03:00:00.000-0400
 ---
 # Working on Issues in a Team
 

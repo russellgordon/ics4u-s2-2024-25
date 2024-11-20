@@ -493,3 +493,7 @@ var filteredItems: [TodoItem] {
 	}
 }
 ```
+
+## Next steps
+
+When you have finished this tutorial, complete the second and final part of it: [[Using SwiftData]].
