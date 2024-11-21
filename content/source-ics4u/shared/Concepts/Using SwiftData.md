@@ -1,14 +1,14 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 tags: 
-created: 2024-11-19T01:23:31.000-0400
-createdForSectionTwo: 2024-11-20T03:00:00.000-0400
+created: 2024-11-21T01:23:31.000-0400
+createdForSectionTwo: 2024-11-21T03:00:00.000-0400
 ---
 
 ## Introduction
 
-In [[Using Observable Classes]] you learned how to re-build most of the to-do list we built over *four* classes last year.
+In [[Observable Classes]] you learned how to re-build most of the to-do list we built over *four* classes last year.
 
 In this follow-up tutorial we will finish the job, using the `Observation` and `SwiftData` frameworks.
 
@@ -73,9 +73,7 @@ You can now swipe to delete items from your to-do list.
 
 Please commit and push your work with this message:
 
-```
-Can now delete items from the list.
-```
+> Can now delete items from the list.
 
 ## Add search
 
@@ -145,9 +143,7 @@ Now, when you type in the search field, the to-do list is filtered as expected.
 
 Commit and push your work with this message:
 
-```
-Made it possible to search the list of to-do items.
-```
+> Made it possible to search the list of to-do items.
 
 ## Persist changes
 
@@ -157,7 +153,7 @@ To test data persistence, as a general rule, it is best to run the entire app in
 
 Here's what happens right now, as shown from the Simulator:
 
-![[Changes not Persisted.mp4|300]]
+![[Changes Not Persisted.mp4]]
 
 When the app is force-quit and re-opened, the changes made to the to-do list are not persisted.
 
@@ -446,15 +442,13 @@ To summarize, when adding SwiftData into an existing app, there are typically fo
 
 After taking those steps, you will find that data is persisted when your app closes or is otherwise quit:
 
-![[Data is persisted.mp4|300]]
+![[Data is Persisted.mp4]]
 
 Whew! That was only a *little bit* of code, but *lot* of learning. 🤯
 
 Please commit and push your work with this message:
 
-```
-Added data persistence using the SwiftData framework.
-```
+> Added data persistence using the SwiftData framework.
 
 ### Mock data for previews
 
@@ -538,9 +532,7 @@ However, when you return to the preview again later, the same three pieces of mo
 
 Commit and push your work with this message:
 
-```
-Added mock data to our model for use with SwiftUI Previews.
-```
+> Added mock data to our model for use with SwiftUI Previews.
 
 ## Statistics
 
@@ -625,9 +617,7 @@ Now we see the tab bar at the bottom of the preview for `StatisticsView` but we 
 
 Commit and push your work with this message:
 
-```
-Improved the landing view so we can default previews to another tab.
-```
+> Improved the landing view so we can default previews to another tab.
 
 ### Add charts
 
@@ -835,9 +825,3 @@ We can run the query right on the database – adjusting somewhat to compensate
 And... that's enough for now. 
 
 Time to 😎 or  💤... whatever feels right.
-
-It's the weekend.
-
-
-
-
