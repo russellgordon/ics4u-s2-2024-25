@@ -9,6 +9,7 @@ enableToc: false
 createdForSectionTwo: 2024-11-22T07:00:00.000-0400
 ---
 ## Agenda
+1. Discussion: [[User Roles and Stories]]
 1. Task: [[Group Software Development Initiatives]]
 	- Mr. Gordon will meet with students in small groups to discuss next steps.
 2. Discussion: Course Feedback Survey
