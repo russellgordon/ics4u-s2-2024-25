@@ -7,6 +7,37 @@ This is a space to make private notes and observations regarding students. This 
 
 Bring new bag of ducks!
 
+# Portfolio Review End of Mod 2
+
+## Dexter
+
+Stays the same if portfolio entries get authored.
+
+## Josh 
+
+Stays the same if portfolio entries get authored.
+
+## Chase
+
+Stays the same if portfolio entries get authored.
+
+## Ben
+
+98*.87+10/11*100*0.13
+
+## Yukun
+
+97*.87+10/11*100*0.13
+
+## Matthew
+
+83*.87+11/11*100*0.13
+
+## Evelyn
+
+98*.87+10/11*100*0.13
+
+
 # Portfolio Review End of Mod 1
 
 ## Yukun
