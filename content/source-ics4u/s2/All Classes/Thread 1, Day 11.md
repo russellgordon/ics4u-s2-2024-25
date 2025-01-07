@@ -6,7 +6,7 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-createdForSectionTwo: 2024-10-04T00:00:00.000-0400
+createdForSectionTwo: 2024-10-04T07:00:00.000-0400
 ---
 ## Agenda
 1. Setup: [AP Classroom](https://myap.collegeboard.org/login)

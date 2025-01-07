@@ -4,7 +4,7 @@ draftSectionTwo: false
 enableToc: false
 excludeBacklinks: true
 created: 2024-10-01T00:34:55.000-0400
-createdForSectionTwo: 2024-10-01T00:00:00.000-0400
+createdForSectionTwo: 2024-10-01T07:00:00.000-0400
 tags:
 ---
 When you commit changes to a local repository, your name and email address are attached to those commits.

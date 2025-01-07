@@ -6,7 +6,7 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-createdForSectionTwo: 2024-09-27T00:00:00.000-0400
+createdForSectionTwo: 2024-09-27T07:00:00.000-0400
 ---
 ## Agenda
 1. Portfolio: Mid-module Portfolio Review

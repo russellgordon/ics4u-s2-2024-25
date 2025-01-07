@@ -2,8 +2,8 @@
 draft: false
 draftSectionTwo: false
 tags: 
-created: 2024-09-16T00:00:00.000-0400
-createdForSectionTwo: 2024-09-17T00:00:00.000-0400
+created: 2024-09-16T07:00:00.000-0400
+createdForSectionTwo: 2024-09-17T07:00:00.000-0400
 ---
 [Conditional statements](https://www.hackingwithswift.com/read/0/8/conditional-statements) allow us to *selectively* run blocks of code when given a condition is `true`. If needed, we can [check multiple conditions](https://www.hackingwithswift.com/quick-start/beginners/how-to-check-multiple-conditions).
 

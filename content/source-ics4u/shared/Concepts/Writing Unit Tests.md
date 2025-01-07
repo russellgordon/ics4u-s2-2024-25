@@ -2,8 +2,8 @@
 draft: false
 draftSectionTwo: false
 tags: 
-created: 2024-09-20T00:00:00.000-0400
-createdForSectionTwo: 2024-09-20T00:00:00.000-0400
+created: 2024-09-20T07:00:00.000-0400
+createdForSectionTwo: 2024-09-20T07:00:00.000-0400
 ---
 
 This video describes how to add a testing target to an existing Xcode project – in this case, the following [RSA Numbers example project](https://github.com/lcs-rgordon/RSANumbers2024/archive/77ab56bc874b69109ddf0c991059a86ed7daab0d.zip):

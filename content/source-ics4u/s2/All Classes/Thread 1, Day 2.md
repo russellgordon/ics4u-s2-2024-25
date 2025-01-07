@@ -6,7 +6,7 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-createdForSectionTwo: 2024-09-19T00:00:00.000-0400
+createdForSectionTwo: 2024-09-19T07:00:00.000-0400
 notes: Be sure to look at how to test for negative values using guard statements. Discussion should highlight repetitive nature of code. Show functions example. Get students to apply functions. Highlight the use of the debugger. Then introduce RSA Numbers problem and functional decomposition. 
 ---
 ## Agenda
