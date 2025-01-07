@@ -3,6 +3,43 @@ draft: true
 draftSectionTwo: true
 tags:
 ---
+
+```mermaid
+flowchart TD
+    START([START]) --> A{Is there an existing record for this student id?}
+    A -->|No| B[Record exception and report in app UI]
+    A -->|Yes| C{Is arrival category nil?}
+    C -->|Yes| D[Record on-time arrival]
+    C -->|No| E{Is arrival category on-time?}
+    E -->|Yes| F[Ignore arrival and report in app UI]
+    E -->|No| G{Is arrival category absent?}
+    G -->|Yes| H[Record late arrival]
+    G -->|No| I{Is arrival category late?}
+    I -->|Yes| J[Ignore arrival and report in app UI]
+    B --> END([END])
+    D --> END
+    F --> END
+    H --> END
+    J --> END
+
+```
+
+```mermaid
+flowchart TD
+    A[Start] --> B{Is there an existing record for this student ID?}
+    B -- No --> C[Record exception and report in app UI]
+    B -- Yes --> D{Is arrival category nil?}
+    D -- Yes --> E[Record on-time arrival]
+    D -- No --> F{Is arrival category on-time?}
+    F -- Yes --> G[Ignore arrival and report in app UI]
+    F -- No --> H{Is arrival category absent?}
+    H -- Yes --> I[Record late arrival]
+    H -- No --> J{Is arrival category late?}
+    J -- Yes --> K[Ignore arrival and report in app UI]
+    J -- No --> L[End]
+```
+
+
 This page is a place to place text or other bits of information in, temporarily.
 
 Here is when the SICs are available this week:

@@ -5,6 +5,30 @@ tags:
 ---
 This is a space to make private notes and observations regarding students. This page will not be published to the web.
 
+# Scaled interfaces
+
+https://www.swiftuifieldguide.com/layout/dynamic-type/
+
+# SwiftUI App Lifecycles
+
+Really good overall references:
+
+https://developer.apple.com/tutorials/swiftui-concepts/specifying-the-view-hierarchy-of-an-app-using-a-scene
+
+https://developer.apple.com/tutorials/swiftui-concepts/exploring-the-structure-of-a-swiftui-app
+
+# User authentication with Supabase
+
+https://supabase.com/docs/guides/auth/sessions
+
+# Adapting to different device sizes
+
+https://developer.apple.com/tutorials/swiftui-concepts/scaling-views-to-complement-text
+
+# Error handling
+
+https://www.avanderlee.com/swift/try-catch-throw-error-handling/
+
 # Passkeys and public key cryptography
 
 https://blog.1password.com/what-are-passkeys/
