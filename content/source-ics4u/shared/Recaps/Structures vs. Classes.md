@@ -11,7 +11,8 @@ createdForSectionTwo: 2024-11-13T03:00:00.000-0400
 This lesson is really about *value types* and how they differ from *reference types*.
 
 To explore this concept, please create a [[Creating an Xcode Playground|new Xcode playground]] named `StructuresAndClasses`.
-## Value typesa
+
+## Value types
 
 What is a value type?
 
