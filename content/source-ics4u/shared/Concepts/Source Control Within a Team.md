@@ -85,6 +85,7 @@ The team member must then pull the changes from their remote to their local copy
 	  ![[Screenshot 2023-01-16 at 6.50.20 AM.png|375]]
 
    > [!TIP]
+   > 
    > After creating or switching to a different branch, Xcode may show the marker `(current)` on two branches at the same time, which is impossible.
    > 
    > ![[Screenshot 2023-01-16 at 7.01.45 AM.png|200]]

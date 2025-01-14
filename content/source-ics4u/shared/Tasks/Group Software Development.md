@@ -16,7 +16,7 @@ If you cannot get an answer to the question of what to do next, help a teammate.
 
 [Strong learning skills](https://lakefieldcs.notion.site/Learning-Skills-Look-fors-174d4a49de518046b70bc5fdaa3cc0eb?pvs=4) will propel your achievement.
 
-## Kanban boards
+### Kanban boards
 
 It is your responsibility to maintain the project status board for issues that you are assigned to.
 
