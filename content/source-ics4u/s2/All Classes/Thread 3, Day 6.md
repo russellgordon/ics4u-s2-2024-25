@@ -10,7 +10,7 @@ createdForSectionTwo: 2025-01-17T07:23:31.000-0400
 notes: 
 ---
 ## Agenda
-1. Task: Paper Prototyping
+1. Task: Paper Prototypes
 	- Thinking through in-app task flows and functionality in our apps.
 	
 ## Things to do before our next class

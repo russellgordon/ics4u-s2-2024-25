@@ -6,12 +6,14 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2025-01-16T01:23:31.000-0400
+created: 2025-01-17T01:23:31.000-0400
 notes: 
 ---
 ## Agenda
 1. Task: [[Paper Prototyping]]
-	- Thinking through student-facing features and additional functionality for the LCS Check In app.
+	- Use the this period to complete your paper prototype for student-facing features and additional functionality for the LCS Check In app.
+	- Be sure to [[Paper Prototyping#Rubric|review the rubric]] that will be used to evaluate your group's work.
+	- This work is due at the end of today's class.
 
 ## Things to do before our next class
 
