@@ -12,7 +12,7 @@ notes:
 ## Agenda
 1. Concept: Staging Some Changes
 	- Sometimes only some *parts* of changes to a given file should be staged, while others should not be included in a commit.
-	- We will review a common scenario involving the `.pbjproj` file (Xcode project file) and discuss.
+	- We will review a common scenario involving the `.pbxproj` file (Xcode project file) and discuss.
 2. Discussion: Pull Request Base Branch
 	- A gentle reminder – always set up pull requests so that changes will be merged into the `development` branch.
 	> [!TIP] 
