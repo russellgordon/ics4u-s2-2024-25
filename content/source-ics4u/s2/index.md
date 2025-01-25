@@ -5,7 +5,7 @@ excludeBacklinks: true
 createdForSectionTwo: 2025-01-24T01:23:31.000-0400
 ---
 # Most Recent Class
-![[Thread 3, Day 9]]
+![[Thread 3, Day 10]]
 ![[Grove Time]]
 ![[SIC Drop-In Sessions]]
 ![[Key Links]]
