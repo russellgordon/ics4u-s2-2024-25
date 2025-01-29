@@ -10,8 +10,7 @@ createdForSectionTwo: 2025-01-31T07:23:31.000-0400
 notes: 
 ---
 ## Agenda
-1. Discussion: Using View Models
-	- A recap of how to update an existing record in a database table and then see those changes in other parts of your app.
+
 2. Portfolio: End-of-Mod Portfolio Reviews
 3. Task: [[Group Software Development]]
 	- Time to work on assigned issues.
