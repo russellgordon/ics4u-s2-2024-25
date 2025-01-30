@@ -11,13 +11,9 @@ notes:
 ---
 ## Agenda
 
-2. Portfolio: End-of-Mod Portfolio Reviews
-3. Task: [[Group Software Development]]
+1. Portfolio: End-of-Mod Portfolio Reviews
+2. Task: [[Group Software Development]]
 	- Time to work on assigned issues.
-
-> [!REMINDER]
-> 
-> End-of-mod portfolio reviews will occur on Friday.
 
 ## Things to do before our next class
 
