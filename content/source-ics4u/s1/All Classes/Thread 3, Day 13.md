@@ -1,12 +1,12 @@
 ---
-draft: true
-draftSectionTwo: false
+draft: false
+draftSectionTwo: true
 transcludeTitleSize: h2
 tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-createdForSectionTwo: 2025-01-31T07:23:31.000-0400
+created: 2025-01-31T01:23:31.000-0400
 notes: 
 ---
 ## Agenda
