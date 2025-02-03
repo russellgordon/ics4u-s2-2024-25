@@ -6,8 +6,8 @@ Mr. Gordon is available at these times this week:
 
 Day|Time|Location
 -|-|-
-Monday, January 27|12:30 PM to 1:00 PM|Room 6
-Friday, January 31|1:30 PM to 2:00 PM|Room 6
+Tuesday, February 4|12:30 PM to 1:00 PM|Room 6
+Friday, February 7|12:30 PM to 1:00 PM|Room 6
 
 Grove Time is a drop-in, no appointment needed.
 

@@ -7,6 +7,44 @@ This is a space to make private notes and observations regarding students. This 
 
 Bring new bag of ducks!
 
+# Portfolio Review End of Mod 3
+
+## Yukun
+
+Great portfolio, very thorough. 98
+
+## Josh
+
+Portfolio needed some work, good technical work though, leadership within his team. 95
+
+## Ben
+
+Great mod; great portfolio entries. 98.5%
+
+## Hansen
+
+Portfolio a bit sparse. Keeping grade at 96.
+
+## Evelyn
+
+98
+
+## Sophie
+
+98
+
+## Matthew
+
+83
+
+## Chase
+
+91
+
+## Dexter
+
+92 – must have portfolio fixed up
+
 # Portfolio Review End of Mod 2
 
 ## Dexter
