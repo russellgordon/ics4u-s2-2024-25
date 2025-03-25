@@ -18,4 +18,6 @@ notes:
 
 ## Things to do before our next class
 
-- [ ] Make a portfolio entry [on Notion](https://notion.so) – briefly write about how prepared you feel for the AP CSP exam at this point in time.
+- [ ] Make a portfolio entry [on Notion](https://notion.so) and:
+	1. share a photo of the [[Analysis of AP CSP Diagnostic Exam Result.png|analysis of your result]]
+	2. write briefly about how prepared you feel for the AP CSP exam at this point in time
