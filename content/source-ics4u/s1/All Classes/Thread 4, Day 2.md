@@ -16,7 +16,6 @@ notes:
 	  >  
 	  >  The KA tutorials go into a bit more detail than you can likely expect on the AP CSP exam, but, if you can ace their their tutorials, you should do very well on the actual exam.
 
-
 ## Things to do before our next class
 
 - [ ] Write about what you learned and made progress on today in a portfolio entry on [Notion](https://notion.so).

@@ -20,3 +20,7 @@ notes:
 ## Things to do before our next class
 
 - [ ] Write about what you learned and made progress on today in a portfolio entry on [Notion](https://notion.so).
+
+## Things to do before our next class
+
+- [ ] Write about what you learned and made progress on today in a portfolio entry on [Notion](https://notion.so).

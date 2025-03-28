@@ -4,6 +4,16 @@ draftSectionTwo: true
 tags:
 ---
 
+> [!NOTE]
+		> 
+		> If you were absent for today's class, you can [view the history of commits](https://github.com/russellgordon/Spelling/commits/main) made as we developed the app today in class.
+		> 
+		> You can click the links at right for a given commit to see changes made for that step:
+		> 
+		> ![[Screenshot 2023-10-30 at 4.50.25 PM.png|600]]
+		> 
+		> Have a look at the changes for each commit and that should help you understand how the app was developed.
+
 ```mermaid
 flowchart TD
     START([START]) --> A{Is there an existing record for this student id?}
