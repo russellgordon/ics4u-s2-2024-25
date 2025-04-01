@@ -10,7 +10,7 @@ createdForSectionTwo: 2025-03-27T07:23:31.000-0400
 notes: 
 ---
 ## Agenda
-1. AP CSP: Exam Software Setup
+1. AP CSP: Exam Software Setup (Bluebook)
 2. Concept: [[Data - Lossless vs Lossy Compression.pdf|Lossless vs Lossy Compression]]
 	- Be sure to [complete the section on data compression](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:data-compression/a/file-compression-introduction) and the related quizzes and self-checks
 	  > [!NOTE]
