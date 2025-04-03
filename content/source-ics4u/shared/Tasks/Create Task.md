@@ -1,9 +1,9 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 tags: 
 created: 2025-04-01T07:00:00.000-0400
-createdForSectionTwo: 2025-04-02T07:00:00.000-0400
+createdForSectionTwo: 2025-04-03T07:00:00.000-0400
 ---
 
 ## Timelines
@@ -59,6 +59,11 @@ Multiplication Maestro is another MVP (minimum viable product) for the AP Create
 			- 01:23 - [Save the file in BBEdit with `.swift` as the file extension](https://www.youtube.com/watch?v=szNtDddK0T0&t=83s)
 			- 01:48 - [Print the document with line numbers and syntax highlighting](https://www.youtube.com/watch?v=szNtDddK0T0&t=108s)
 			- 02:31 - [Optionally print the document in landscape mode to show longer lines better](https://www.youtube.com/watch?v=szNtDddK0T0&t=151s)
+		> [!IMPORTANT]
+		> 
+		> To clarify, you do *not* need to remove comments from your PDF file that contains all of your program code.
+		> 
+		> You *will* need to remove comments later on from the screenshots that you will take for the personalized project reference.
     2. Record your [1-minute video](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf#page=5).
         - The easiest way to record a video is to press `Command-R` when your app is running in the Simulator.
         - Here is [how to "make small text large"](https://www.russellgordon.ca/tips/embiggen-text-like-a-pro/) if you wish to use this effect in your video.
@@ -66,11 +71,17 @@ Multiplication Maestro is another MVP (minimum viable product) for the AP Create
         > 
         > It is not required to show text captions within your video, although it is encouraged *if you have the time* as it makes the College Board evaluator's job easier. If you choose to do this, [use Quicktime Player](https://support.apple.com/en-ca/guide/quicktime-player/qtp97b08e666/10.5/mac/12.0) to record your video.
         
-    3. Author your written responses to the [probable exam questions](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3).
-	    - Be sure that code screenshots are legible – code cannot be so tiny that it becomes nearly impossible to read without a magnifying glass.
-	    - Although you are not submitting your written responses now, you can keep these to refer to prior to the exam in May.
+    3. Take your screenshots for the [Personalized Project Reference](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf#page=6) and save these in a folder on your computer. You will later upload these to your AP CSP Digital Portfolio.
 	    - ==It is recommended that you take screenshots for your written responses from the PDF you created using BBEdit, so that line numbers match up with the PDF file you are providing with your full program code.==
 		    - If you instead take code screenshots from Xcode directly, line numbers will not match up with your full program code PDF, which could be confusing for the College Board evaluator who reviews your submission.
+	    - Be sure that code screenshots are legible – code cannot be so tiny that it becomes nearly impossible to read without a magnifying glass.
+       
+       > [!IMPORTANT]
+       > 
+       > Comments *must be removed* from screenshots included in the personalized project reference.
+       
+    4. Author your written responses to the [probable exam questions](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3).
+	    - Although you are not submitting your written responses now, you can keep these to refer to prior to the exam in May.
 	      
 5. When you are all finished, [submit your work to the College Board through your Digital Portfolio](https://digitalportfolio.collegeboard.org/).
 

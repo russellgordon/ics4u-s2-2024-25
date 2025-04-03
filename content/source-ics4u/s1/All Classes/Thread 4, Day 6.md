@@ -6,12 +6,13 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2025-04-01T07:23:31.000-0400
+created: 2025-04-02T07:23:31.000-0400
 notes: 
 ---
 ## Agenda
 1. AP CSP: [[Create Task]]
-	- Begin formally working on your Create Task in today's class.
+	- Continue working on your Create Task in today's class.
+	- Please follow the steps in order as described in the [[Create Task#Things to do|"Things to do"]] section.
 	  > [!TIP]
 	  > 
 	  > Having trouble coming up with ideas?
