@@ -11,6 +11,9 @@ notes:
 ---
 ## Agenda
 1. Concept: Analog vs. Digital Data
+2. Concept: [[Introduction to Sorting Algorithms]]
+	- Learn what it means to sort an array.
+	- Gain practice implementing a classic sorting algorithm.
 
 ## Things to do before our next class
 
