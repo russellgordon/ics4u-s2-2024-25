@@ -65,7 +65,7 @@ Multiplication Maestro is another MVP (minimum viable product) for the AP Create
 		> 
 		> You *will* need to remove comments later on from the screenshots that you will take for the personalized project reference.
     2. Record your [1-minute video](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf#page=5).
-        - The easiest way to record a video is to press `Command-R` when your app is running in the Simulator.
+        - The easiest way to record a video is to press `Command-R` when your app is running in the Simulator (if writing an iOS app) or to press `Command-Shift-5` to record your screen (if writing a macOS app).
         - Here is [how to "make small text large"](https://www.russellgordon.ca/tips/embiggen-text-like-a-pro/) if you wish to use this effect in your video.
         > [!NOTE]
         > 
