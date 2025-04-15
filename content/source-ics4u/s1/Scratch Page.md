@@ -4,6 +4,14 @@ draftSectionTwo: true
 tags:
 ---
 
+
+Here is this week's schedule:
+
+Day|Time|SIC|Location
+-|-|-|-
+Thursday, April 3|1:00 PM to 1:30 PM|Ben|Room 36
+Friday, April 4|1:00 PM to 1:30 PM|Nikita|Room 36
+
 > [!NOTE]
 		> 
 		> If you were absent for today's class, you can [view the history of commits](https://github.com/russellgordon/Spelling/commits/main) made as we developed the app today in class.
