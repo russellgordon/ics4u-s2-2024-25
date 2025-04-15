@@ -2,8 +2,8 @@
 draft: false
 draftSectionTwo: false
 tags: 
-created: 2025-04-11T07:00:00.000-0400
-createdForSectionTwo: 2025-04-11T07:00:00.000-0400
+created: 2025-04-15T07:00:00.000-0400
+createdForSectionTwo: 2025-04-15T07:00:00.000-0400
 ---
 
 ## Introduction
@@ -62,4 +62,21 @@ Then, dive in to learn more:
 	  ![[Pasted image 20250411081348.png|150]]
 - Try the [four-question practice quiz](https://www.khanacademy.org/computing/ap-computer-science-principles/the-internet/x2d2f703b37b450a3:the-digital-divide/e/the-digital-divide?modal=1)
 
+### Data Encryption and Secure Internet Protocols
 
+Get an introduction to the concept:
+
+![[Data Encryption and Secure Internet Protocols.pdf]]
+
+Then, dive in to learn more and practice:
+
+- Review [data encryption techniques on on Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles/x2d2f703b37b450a3:online-data-security#x2d2f703b37b450a3:data-encryption).
+	- Complete readings in the sections noted below:<br/>
+	  ![[Pasted image 20250415083706.png|150]]
+- Review [secure internet protocols](https://www.khanacademy.org/computing/ap-computer-science-principles/x2d2f703b37b450a3:online-data-security#x2d2f703b37b450a3:secure-internet-protocols):
+	- Complete readings in the sections noted below:<br/>
+	  ![[Pasted image 20250415083800.png|150]]
+	  
+> [!NOTE]
+> 
+> The TLS negotiation process, while interesting, is not on the AP CSP exam.
