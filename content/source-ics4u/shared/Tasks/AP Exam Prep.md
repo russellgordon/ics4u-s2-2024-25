@@ -80,3 +80,31 @@ Then, dive in to learn more and practice:
 > [!NOTE]
 > 
 > The TLS negotiation process, while interesting, is not on the AP CSP exam.
+
+### Heuristics and Undecidable Problems
+
+Get an introduction to the concept:
+
+![[Heuristics and Undecidable Problems.pdf]]
+
+Then, dive in to learn more and practice:
+
+- Review [Solving hard problems](https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101#solving-hard-problems) from Khan Academy
+	- Complete readings in the sections noted below:<br/>
+	  ![[Pasted image 20250416085638.png|125]]
+
+> [!NOTE]
+> 
+> The **Undecidable problems** reading contains a great example, but with far more detail than you'll need to know for the AP CSP exam.
+
+### Parallel and Distributed Computing
+
+Get an introduction to the concept:
+
+![[Parallel and Distributed Computing.pdf]]
+
+Then, dive in to learn more and practice:
+
+- Review [Parallel and Distributed Computing](https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101#x2d2f703b37b450a3:parallel-and-distributed-computing) from Khan Academy
+	- Complete readings in the sections noted below:<br/>
+	  ![[Pasted image 20250416090202.png|150]]
