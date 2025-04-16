@@ -83,6 +83,14 @@ Then, dive in to learn more and practice:
 
 ### Heuristics and Undecidable Problems
 
+> [!NOTE]
+> 
+> The slides below make use of Big-O notation.
+> 
+> Formal analysis of algorithmic efficiency (Big-O) is not on the AP exam.
+> 
+> However, if you'd like to better understand the topic, this [short video on time complexity of algorithms](https://www.youtube.com/watch?v=YoZPTyGL2IQ&t=6s) is worth your time.
+
 Get an introduction to the concept:
 
 ![[Heuristics and Undecidable Problems.pdf]]
