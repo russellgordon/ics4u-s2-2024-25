@@ -7,4 +7,4 @@ Computer Studies Program SICs are students enrolled in Grade 12 Computer Science
 
 > [!NOTE]
 > 
-> In this final week before the April Long weekend, there will be no SIC Drop-In sessions offered.
+> In this week immediately after the April Long Weekend, there are no SIC Drop-In Sessions scheduled.
