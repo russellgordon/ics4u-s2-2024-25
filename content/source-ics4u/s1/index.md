@@ -2,10 +2,10 @@
 title: Grade 12 Computer Science, Section 1
 enableToc: false
 excludeBacklinks: true
-created: 2025-04-15T07:00:00.000-0400
+created: 2025-05-20T07:00:00.000-0400
 ---
 # Most Recent Class
-![[Thread 4, Day 13]]
+![[Thread 5, Day 1]]
 ![[Grove Time]]
 ![[SIC Drop-In Sessions]]
 ![[Key Links]]
