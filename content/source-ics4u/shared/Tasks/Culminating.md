@@ -72,10 +72,14 @@ In general terms, here is the suggested order of operations:
 	- [ ] For example, one member may use the range of id's from 1 to 100, the next from 101 to 200, and so on.
 	- [ ] So long as node ID's do not overlap, each group member can work in their own spreadsheet to author the narrative.
 
+> [!IMPORTANT]
+> 
+> The first page (node) of your book's narrative must have the lowest ID. It does not need to be `1`, but the first page must have the lowest ID.
+
 ### Day 2
 
-4. One member of your group assumes the project manager role, [downloads this template](https://www.russellgordon.ca/lcs/ics4u/CYOATemplate.zip), and uses it to create a remote in their GitHub account – all other members of the group will fork this repository and contribute to it using the [[Source Control Within a Team]] workflow you learned to use earlier this year.
-5. Another member of your group assumes the database manager role; they will create the database at Supabase, and use this [database starter script](https://gist.githubusercontent.com/lcs-rgordon/057205e83a622c1abb48a09d9b9c6793/raw/e1ce13e699bda76b9846f24b17991a2695948287/database_starter.mssql) to create and populate tables.
+4. One member of your group assumes the project manager role – see [[Using the CYOA Template#Source code|what to do here to get started]] and be sure to [[CYOA Template Documentation|review documentation for the provided code here]].
+5. Another member of your group assumes the database manager role; they will create the database at Supabase – see [[Using the CYOA Template#Database|what to do here to get started]] and be sure to [[CYOA Database Documentation|review related documentation]].
 6. Collect spreadsheets from group members that contain the narrative and import this data into your database. 
 7. Your group should then brainstorm possible enhancements to your app. Be conservative; time is limited.
 
