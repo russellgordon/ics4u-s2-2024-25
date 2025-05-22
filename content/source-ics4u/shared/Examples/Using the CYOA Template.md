@@ -22,7 +22,63 @@ Then, create a public remote on GitHub:
 
 ![[Pasted image 20250521074306.png]]
 
-The other members of your group should create a fork of the new repository that is owned by the project manager.
+Verify that the project was created on GitHub:
+
+![[Pasted image 20250522075748.png]]
+
+Then view all branches:
+
+![[Pasted image 20250522075825.png]]
+
+... and make a new branch:
+
+![[Pasted image 20250522075958.png]]
+
+... named  `development`:
+
+![[Pasted image 20250522080008.png]]
+
+... it should look like this when finished:
+
+![[Pasted image 20250522080031.png]]
+
+Now visit the **Projects** tab:
+
+![[Pasted image 20250522080237.png]]
+
+Create a new project:
+
+![[Pasted image 20250522080317.png]]
+
+Choose the **Team planning** template:
+
+![[Pasted image 20250522080347.png]]
+
+Name the project as shown (include the names of your group members please) and then create the project:
+
+![[Pasted image 20250522080511.png]]
+
+Now choose **Settings** for your project:
+
+![[Pasted image 20250522080609.png]]
+
+Choose **Manage Access** and invite the other members of your team with **Write** access to the project:
+
+![[Pasted image 20250522080703.png]]
+
+Now go back to the home page for the **CYOATemplate** project and select the **Projects** tab:
+
+![[Pasted image 20250522082333.png]]
+
+Then choose **Link a project**:
+
+![[Pasted image 20250522082406.png]]
+
+Then choose to link the **CYOATemplate** repository to your project:
+
+![[Pasted image 20250522082511.png]]
+
+Finally, the other members of your group should create a fork of the new repository that is owned by the project manager.
 
 Contributions to the source code must be made using the approach you learned earlier this year: [[Source Control Within a Team]].
 
