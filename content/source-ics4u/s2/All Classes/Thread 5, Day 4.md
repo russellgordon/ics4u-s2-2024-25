@@ -20,7 +20,7 @@ notes:
 			> 
 			> Interview slides must be completed by 10 PM this evening – that is when Mr. Gordon will make a copy of your slide deck – you will present from that slide deck on tomorrow morning.
 			- Here is the schedule for tomorrow morning's interviews – this was randomly determined in class today:			  
-			  `<< placeholder for screenshot of interview order >>`
+			  ![[Screenshot 2025-05-27 at 2.24.08 PM.png]]
 	- At some point, once the story for your group is complete, one member of your group must [submit the final version of your group's directed graph](https://docs.google.com/forms/d/e/1FAIpQLSelfroCoQFdRElQ7Y14sYzgSbSNXL6HrzKLG9VbZz25ungTsg/viewform?usp=dialog)
 	> [!NOTE]
 	> 
