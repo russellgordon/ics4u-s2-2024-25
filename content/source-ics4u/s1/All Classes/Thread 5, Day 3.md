@@ -11,8 +11,7 @@ notes:
 ---
 ## Agenda
 1. Task: [[Culminating]]
-	- The final full working period for this task occurs today.
-		- In the next period, you will need to get ready for your end-of-year interview.
+	- Continue working on your culminating task, as a group, today.
 	- Remember that there is [[CYOA Database Documentation|documentation for the database]] and [[CYOA Template Documentation|documentation for the source code]] that will be helpful in considering ways that your group can extend and improve the app experience.
 	  > [!TIP]
 	  > 
